@@ -7,10 +7,10 @@
 !.gitignore
 
 # Track configuration files
-!Configuration.h
-!Configuration_adv.h
-!_Bootscreen.h
-!_Statusscreen.h
+!./Configuration.h
+!./Configuration_adv.h
+!./_Bootscreen.h
+!./_Statusscreen.h
 
 # Track README.md
-!README.md
+!./README.md
